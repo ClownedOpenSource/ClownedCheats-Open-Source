@@ -1,4 +1,7 @@
 # ClownedCheats
+## Come Updates out?
+Yes, but with Delay
+
 ## What is ClownedCheats?
 Cheats for Star Stable Online, Alicia Online, Euro Truck Simulator 2, etc
 
