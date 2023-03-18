@@ -1,0 +1,15 @@
+D:\ClownedCheetos\Clowned_OpenSource\bin\x64\Debug\Clowned_OpenSource.exe.config
+D:\ClownedCheetos\Clowned_OpenSource\bin\x64\Debug\Clowned_OpenSource.exe
+D:\ClownedCheetos\Clowned_OpenSource\bin\x64\Debug\Clowned_OpenSource.pdb
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.csproj.AssemblyReference.cache
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.csproj.SuggestedBindingRedirects.cache
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.MainPanel.resources
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.Properties.Resources.resources
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.csproj.GenerateResource.cache
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.csproj.CoreCompileInputs.cache
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.exe
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.pdb
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.Games.AOPanel.resources
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.Games.SSOPanel.resources
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.HomePanel.resources
+D:\ClownedCheetos\Clowned_OpenSource\obj\x64\Debug\Clowned_OpenSource.SettingsPanel.resources
