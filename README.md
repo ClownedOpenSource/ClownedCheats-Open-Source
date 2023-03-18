@@ -17,4 +17,4 @@ struggling to Crack this, but is Open Source now. HAHAHA
 ## For all Admin / Admin Plus Ranks Infos
 if you pay or *******************, contact me and i give you other program for star coins + unban tool + other things
 
-Have fun
+Have fun, :)
